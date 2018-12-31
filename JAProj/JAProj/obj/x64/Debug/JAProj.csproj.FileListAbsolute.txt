@@ -1,0 +1,15 @@
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\bin\x64\Debug\JAProj.exe.config
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\bin\x64\Debug\JAProj.exe
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\bin\x64\Debug\JAProj.pdb
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.csprojAssemblyReference.cache
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\App.g.cs
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj_MarkupCompile.cache
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj_MarkupCompile.lref
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\MainWindow.baml
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.g.resources
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.Properties.Resources.resources
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.csproj.GenerateResource.cache
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.exe
+C:\Users\Dominik\Desktop\ContrastChanger\JAProj\JAProj\obj\x64\Debug\JAProj.pdb
